@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Keanu Monterde
 - 👀 I’m interested in developing JS related programs.
 - 🌱 I’m currently learning more into Javascript, MongoDB, and NodeJS.
-- 💞️ I’m looking to collaborate on any JS projects that could help me develop my skills.
-- 📫 How to reach me monterdekeanu@gmail.com
+- 💞️ I’m looking to collaborate on any JS projects that requires my expertise in development.
+- 📫 monterdekeanu@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
