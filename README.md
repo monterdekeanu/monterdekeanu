@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on any JS projects that requires my expertise in development.
 - 📫 monterdekeanu@gmail.com
 
+<h3 align="center">Current Projects:</p>
+<p align="center"><img src="cdn.discordapp.com/avatars/941301467581644840/c5c0e112c142cbe1198aff4a3708a5bb.png" width="40" height="40"/></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/keanu-anthony-monterde-797237227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monterdekeanu" height="30" width="40" /></a>
