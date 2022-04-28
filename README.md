@@ -5,7 +5,9 @@
 - 📫 monterdekeanu@gmail.com
 
 <h3 align="center">Current Projects:</p>
-<p align="center"><img src="cdn.discordapp.com/avatars/941301467581644840/c5c0e112c142cbe1198aff4a3708a5bb.png" width="40" height="40"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/avatars/941301467581644840/c5c0e112c142cbe1198aff4a3708a5bb.png" width="40" height="40"/></p>
+
+<p align="center"><img src="https://cdn.discordapp.com/avatars/892399912497594418/60c883908c16ef3e6ada5000686f4b73.png" width="40" height="40"/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
