@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on any JS projects that requires my expertise in development.
 - 📫 monterdekeanu@gmail.com
 
-<h3 align="center">Current Projects:</p>
-<p align="center"><img src="https://cdn.discordapp.com/avatars/941301467581644840/c5c0e112c142cbe1198aff4a3708a5bb.png" width="64" height="64"/> <img src="https://cdn.discordapp.com/avatars/892399912497594418/60c883908c16ef3e6ada5000686f4b73.png" width="64" height="64"/></p>
+<h3 align="left">Current Projects:</p>
+<p align="left"><a href="https://github.com/monterdekeanu/AdelanDesk"><img src="https://cdn.discordapp.com/avatars/941301467581644840/c5c0e112c142cbe1198aff4a3708a5bb.png" width="64" height="64"/></a> <a href="https://github.com/monterdekeanu/TribuAcademyBOT"><img src="https://cdn.discordapp.com/avatars/892399912497594418/60c883908c16ef3e6ada5000686f4b73.png" width="64" height="64"/> </a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
