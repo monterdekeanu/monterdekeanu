@@ -1,19 +1,18 @@
 # 👋 Hi, I’m Keanu Monterde
 
-## 👀 About Me
-Hello! I'm Keanu Monterde, a passionate developer with a keen interest in building innovative web and mobile applications. With a strong background in C#, I am dedicated to creating solutions that are both efficient and user-friendly.
+## 👀 Interests
+- Developing web and mobile applications using C#
 
-## 🌱 What I'm Currently Learning
-I believe in continuous learning and staying up-to-date with the latest technologies. Currently, I am focusing on:
-- **.NET MAUI:** Developing cross-platform applications with a single codebase.
-- **Blazor:** Building interactive web UIs using C# instead of JavaScript.
-- **ASP.NET Core:** Creating robust and scalable web applications and APIs.
+## 🌱 Currently Learning
+- .NET MAUI
+- Blazor
+- ASP.NET Core
 
-## 💼 Professional Experience
-I am currently a Project Manager at Edmond Dantes Consulting INC., where I lead teams in developing Java applications with a specialization in microservices architecture. My role involves:
-- Overseeing project development from inception to completion.
-- Ensuring the delivery of high-quality software solutions.
-- Collaborating with clients to understand their requirements and provide tailored solutions.
+## 💼 Professional Role
+- Project Manager at Edmond Dantes Consulting INC.
+- Focused on Java applications
+- Specializing in microservices
+
 
 ## 🔭 Future Goals
 While I have extensive experience in Java, I am increasingly fascinated by the capabilities of C#. My goal is to dive deeper into the C# ecosystem, exploring its potential and leveraging it to create more sophisticated and efficient applications. I am excited about the journey ahead and the new projects I will embark on using C#.
