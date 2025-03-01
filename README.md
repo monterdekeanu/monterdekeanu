@@ -9,7 +9,6 @@
 - ASP.NET Core
 
 ## 💼 Professional Role
-- Project Manager at Edmond Dantes Consulting INC.
 - Focused on Java applications
 - Specializing in microservices
 
