@@ -38,7 +38,7 @@
 
 ---
 
-## ⚡ Core Tech (visual)
+## ⚡ Core Tech
 
 <div align="center">
 
@@ -81,7 +81,7 @@
 
 ---
 
-## 🤖 AI Integration Patterns (practical)
+## 🤖 AI Integration Patterns
 
 - **Tool calling**: AI triggers actions through controlled functions (safe + auditable)
 - **Structured extraction**: documents → typed JSON schemas → validation + repair
